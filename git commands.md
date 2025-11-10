@@ -4,8 +4,6 @@
 
 | Command                              | Used For                                             | Example Output / Effect                                       |
 
-| ------------------------------------ | ---------------------------------------------------- | ------------------------------------------------------------- |
-
 | `mkdir git-hour`                     | Create a new folder for your repo                    | Creates folder `git-hour/`                                    |
 
 | `cd git-hour`                        | Move into that folder                                | You’re now “inside” the repo directory                        |
